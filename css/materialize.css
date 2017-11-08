@@ -4423,13 +4423,13 @@ nav .input-field label.active i {
 
 @font-face {
   font-family: "Open_Sans-Thin";
-  src: local(OpenSans-Thin), url("../fonts/OpenSans/OpenSans-Thin.ttf") format("ttff"), url("../fonts/OpenSans/OpenSans-Thin.ttf") format("ttff")
+  src: local(OpenSans-Thin), url("../fonts/OpenSans/OpenSans-Thin.ttf") format("truetype"), url("../fonts/OpenSans/OpenSans-Thin.ttf") format("truetype")
   font-weight: 100;
 }
 
 @font-face {
   font-family: "Open_Sans-Light";
-  src: local(OpenSans-Light), url("../fonts/OpenSans/OpenSans-Light.ttf") format("ttf"), url("../fonts/OpenSans/OpenSans-Light.ttf") format("ttf");
+  src: local(OpenSans-Light), url("../fonts/OpenSans/OpenSans-Light.ttf") format("truetype"), url("../fonts/OpenSans/OpenSans-Light.ttf") format("truetype");
   font-weight: 300;
 }
 
@@ -4441,13 +4441,13 @@ nav .input-field label.active i {
 
 @font-face {
   font-family: "Open_Sans-Medium";
-  src: local(OpenSans-Medium), url("../fonts/Open_Sans/OpenSans-Medium.ttf") format("ttf"), url("../fonts/Open_Sans/OpenSans-Medium.ttf") format("ttf")
+  src: local(OpenSans-Medium), url("../fonts/Open_Sans/OpenSans-Medium.ttf") format("truetype"), url("../fonts/Open_Sans/OpenSans-Medium.ttf") format("truetype")
   font-weight: 500;
 }
 
 @font-face {
   font-family: "Open_Sans-Bold";
-  src: local(OpenSans-Bold), url("../fonts/Open_Sans/OpenSans-Bold.ttf") format("ttf"), url("../fonts/Open_Sans/OpenSans-Bold.ttf") format("ttf");
+  src: local(OpenSans-Bold), url("../fonts/Open_Sans/OpenSans-Bold.ttf") format("truetype"), url("../fonts/Open_Sans/OpenSans-Bold.ttf") format("truetype");
   font-weight: 700;
 }
 
