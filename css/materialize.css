@@ -4435,7 +4435,7 @@ nav .input-field label.active i {
 
 @font-face {
   font-family: "Open_Sans-Reg";
-  src: local(OpenSans-Regular), url("../fonts/Open_Sans/OpenSans-Regular.ttf") format("ttf"),url("../fonts/Open_Sans/OpenSans-Regular.ttf")  format("ttf");
+  src: url("../fonts/Open_Sans/OpenSans-Regular.ttf") format("truetype"),url("../fonts/Open_Sans/OpenSans-Regular.ttf")  format("truetype");
   font-weight: 400;
 }
 
